@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Hackerr7767
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Hackerr7767/Hackerr7767 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, intitial-scale=1.00" />
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    </body>
+</html>
